@@ -2,3 +2,6 @@ deb https://mirror.iranserver.com/debian stretch main contrib non-free
 deb https://mirror.iranserver.com/debian-security stretch/updates main contrib non-free
 deb https://mirror.iranserver.com/debian stretch-backports main contrib non-free
 deb https://mirror.iranserver.com/debian stretch-updates main contrib non-free
+
+deb http://mirror.arvancloud.ir/debian bullseye main
+deb http://mirror.arvancloud.ir/debian-security bullseye-security main

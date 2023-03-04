@@ -2,3 +2,6 @@ deb https://mirror.iranserver.com/debian bullseye main contrib non-free
 deb https://mirror.iranserver.com/debian-security bullseye/updates main contrib non-free
 deb https://mirror.iranserver.com/debian bullseye-backports main contrib non-free
 deb https://mirror.iranserver.com/debian bullseye-updates main contrib non-free
+
+deb http://mirror.arvancloud.ir/debian bullseye main
+deb http://mirror.arvancloud.ir/debian-security bullseye-security main
